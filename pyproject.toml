@@ -1,0 +1,5 @@
+[project]
+name = "gdecay"
+version = "0.1.0"
+description = "Permission decay analysis"
+requires-python = ">=3.10"
